@@ -122,6 +122,7 @@ class RedBlackTree {
 }
 
 class BTree {
+    // Simplified placeholder
     int t;
     BTree(int t) { this.t = t; }
     void insert(int key) {
